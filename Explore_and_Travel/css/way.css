@@ -1,0 +1,36 @@
+.way {
+	padding: 75px 0;
+}
+.way__flex {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+.way__image {
+	padding: 0 100px 0 0;
+}
+.way__body {
+	/* padding: 0 0 0 50px; */
+}
+.way__title {
+	font-family: 'Playfair Display';
+	font-weight: 700;
+	font-size: 36px;
+	line-height: 138.888889%; /* 50/36 */
+	max-width: 480px;
+	margin: 0 0 20px 0;
+}
+.way__text {
+	font-family: 'Mulish';
+	font-style: normal;
+	font-weight: 300;
+	font-size: 17px;
+	line-height: 176.470588%; /* 30px/17 */
+	color: #7D7987;
+	max-width: 450px;
+	margin: 0 0 35px 0;
+}
+.way__btn {
+	line-height: 60px;
+	text-align: center;
+}
